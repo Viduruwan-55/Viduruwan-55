@@ -1,4 +1,4 @@
-# <center>Hi 👋 I’m Y.P.Viduruwan<center>
+# <p align="center">**Hi 👋 I’m Y.P.Viduruwan**</p>
 
 <!--
 ;;**Viduruwan-55/Viduruwan-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
