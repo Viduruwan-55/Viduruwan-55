@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/yasisuru-pathum-viduruwan-35000b256" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:ypviduruwan55@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ypviduruwan55@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/yasisurupathum/profilecard/?igsh=MTZxdTV6OTUxc2xrYQ==" target="_blank">
