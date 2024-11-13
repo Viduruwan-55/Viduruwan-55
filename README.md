@@ -28,7 +28,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <br><br>
-<img align="right" alt="1ktC.gif" width="300" src="/images/Animation.json">
+<img align="right" alt="1ktC.gif" width="300" src="./images/Animation.gif">
 ![My Lottie Animation](/images/Animation.json)
 
 <!-- working on -->
@@ -56,10 +56,9 @@
 </div>
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br><br>
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br><br>
-
+<br>
 ###
 
 <h2 align="center">Languages and Tools</h2>
