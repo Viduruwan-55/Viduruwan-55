@@ -102,10 +102,8 @@
   <p align="center"> <img src="https://streak-stats.demolab.com/?username=Viduruwan-55&theme=algolia" /></p>
 </div>
 
-<!--
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AminduBhashana&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viduruwan-55&radius=16&theme=algolia&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
--->
 
 ###
