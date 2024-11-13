@@ -99,11 +99,11 @@
       </td>
     </tr>
   </table>
-  <p align="center"> <img src="https://streak-stats.demolab.com/?username=Viduruwan-55&theme=algolia" /></p>
+  <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Viduruwan-55&theme=algolia&border_radius=5" alt="GitHub Streak" /></a></p>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viduruwan-55&radius=16&theme=algolia&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viduruwan-55&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
